@@ -1,8 +1,7 @@
-# Desafio de arquivos em C
-Olá, bem vindo ao desafio sobre arquivos.
+# Archive C libs challenge
+Hi, welcome to the archives challenge.
+##
+Open the folder "channel" and find the secret word.
+Tip: start with 90052.
 
-
-Abra a pasta "channel" e encontre a palavra secreta. 
-Dica: comece em 90052.
-
-Boa sorte!
+Good luck!
