@@ -1,4 +1,4 @@
-# Archive C libs challenge
+# C archive lib challenge
 Hi, welcome to the archives challenge.
 ##
 Open the folder "channel" and find the secret word.
